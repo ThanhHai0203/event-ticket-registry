@@ -2,4 +2,5 @@
 !.gitignore
 !contracts/
 !contracts/EventTicketRegistry.sol
-!ventTicketRegistry.ipynb
+!EventTicketRegistry.ipynb
+
